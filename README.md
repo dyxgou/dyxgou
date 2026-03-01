@@ -16,4 +16,4 @@
 * [redis](https://github.com/dyxgou/redis) - A simple Redis Clone built in Go — great for learning how Redis works under the hood and experimenting with custom data stores 📦. 
 * [interpreter](https://github.com/dyxgou/interpreter) - This is my own implementation of the Monkey programming language, inspired by the book [Writing an Interpreter in Go](https://interpreterbook.com/) by Thorsten Ball 🐒.
 * [nvim](https://github.com/dyxgou/nvim) - My own Neovim configuration ground ready for all kinds of development.
-* [MyLearning](https//github.com/dyxgou/notes-frontend) - A platform that i have for school for them to manage all their students related data.
+* [MyLearning](https://github.com/dyxgou/notes-frontend) - A platform that i have for school for them to manage all their students related data.
