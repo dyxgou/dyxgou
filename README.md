@@ -10,15 +10,13 @@
 
 ---
 
-<p align="center">
-    Currently redacting an article about how can you create your own Redis Clone and you can find it on my portfolio.
-    <br />
 
+Currently redacting an article about how can you create your own Redis Clone and you can find it on my portfolio.
+
+<div align="center">
+  <img height="100" src="https://alejandro.buzz/images/redis.webp">
   [https://alejandro.buzz/projects/redis](https://alejandro.buzz/projects/redis)
-</p>
-
-
-
+</div>
 ---
 
 <details open>
