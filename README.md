@@ -2,7 +2,7 @@
     Hi 👋, I'm Alejandro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 </h1>
 
-<h3 align="center">A passionate Backend developer from Colombia</h3>
+<h3 align="center">A Backend developer from Colombia</h3>
 
 <p align="center">
     Passionate about Golang, Rust, <strong>blazingly fast systems</strong> and building interesting software.    
@@ -11,14 +11,12 @@
 ---
 
 
-Currently redacting an article about how can you create your own Redis Clone and you can find it on my portfolio.
+Currently redacting an article about how can you create your own Redis Clone and you can find it on my portfolio <a href="https://alejandro.buzz/projects/redis" rel="noopener noreferer" target="_blank">
+      here</a>.
 
-<div align="center">
-  <img height="200" src="https://alejandro.buzz/images/redis.webp">
-  <a href="https://alejandro.buzz/projects/redis" rel="noopener noreferer" target="_blank">
-      https://alejandro.buzz/projects/redis
-  </a>
-</div>
+<a style="width: 100%; display: grid; place-items: center;" href="https://alejandro.buzz/projects/redis" rel="noopener noreferer" target="_blank">
+      <img style="border-radius: 10px" height="300" src="https://alejandro.buzz/images/redis.webp">
+</a>.
 
 ---
 
