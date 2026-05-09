@@ -14,9 +14,12 @@
 Currently redacting an article about how can you create your own Redis Clone and you can find it on my portfolio.
 
 <div align="center">
-  <img height="100" src="https://alejandro.buzz/images/redis.webp">
-  [https://alejandro.buzz/projects/redis](https://alejandro.buzz/projects/redis)
+  <img height="200" src="https://alejandro.buzz/images/redis.webp">
+  <a href="https://alejandro.buzz/projects/redis" rel="noopener noreferer" target="_blank">
+      https://alejandro.buzz/projects/redis
+  </a>
 </div>
+
 ---
 
 <details open>
